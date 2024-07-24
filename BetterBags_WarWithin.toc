@@ -1,0 +1,28 @@
+## Interface: 110000
+
+## Title: BetterBags - The War Within
+## Notes: Filter for common War Within items in BetterBags.
+## Author: Avyiel
+## Version: @project-version@
+## X-Date: @project-date-iso@
+## IconTexture: Interface\Icons\inv_misc_bag_06
+
+## DefaultState: Enabled
+## Dependencies: BetterBags
+#@alpha@
+## OptionalDeps: BugSack, BugGrabber
+#@end-alpha@
+
+## X-Date: @project-date-iso@
+## X-Category: Bags & Inventory
+## X-License: MIT
+
+## X-Curse-Project-ID: 960816
+## X-Wago-ID: rNkPwl6a
+
+db.lua
+main.lua
+
+#@debug@
+## Version: DEV
+#@end-debug@
