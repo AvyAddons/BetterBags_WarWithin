@@ -42,9 +42,7 @@ body:
       description: Did you try having BetterBags and BetterBags_WarWithin as the only enabled addons and everything else (especially other BetterBags plugins) disabled?
       options:
         - label: "Yes"
-        - label: "No"
-    validations:
-      required: true
+          required: true
 
   - type: textarea
     attributes:
