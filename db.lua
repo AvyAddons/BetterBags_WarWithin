@@ -225,4 +225,28 @@ addon.db = {
 		226291, -- Void Shard
 		226306, -- Web-Entangled Lotus
 	},
+	["|cff88AAFFDelves|r"] = {
+		229899, -- Coffer Key Shard
+		224172, -- Restored Coffer Key
+		-- Combat Curios
+		225902, -- Idol of Final Will
+		218129, -- Porcelain Arrowhead Idol
+		228984, -- Unbreakable Iron Idol
+		225898, -- Idol of the Earthmother
+		229353, -- Rage-Filled Idol
+		225900, -- Light-Touched Idol
+		-- Utility Curios
+		225908, -- Relicblood of Zekvir
+		225905, -- Olden Seeker Relic
+		225904, -- Time Lost Relic
+		225903, -- Amorphous Relic
+		225901, -- Streamlined Relic
+		228582, -- Streamlined Relic
+		225906, -- Lifeless Necrotic Relic
+		225907, -- Relic of Sentience
+	},
+	["|cffa335eeAlunira|r"] = {
+		224025, -- Crackling Shard
+		224026, -- Storm Vessel
+	},
 }
