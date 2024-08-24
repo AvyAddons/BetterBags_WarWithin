@@ -7,8 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
-- Alunira
+- Crests & Valorstones
 - Delves
+- Airship Schematics
+- Contracts
+- Resonance Crystals
+- Assembly of the Deep
+- Alunira
+
+Thanks to [AMaribo] for supplying many of the categories for this release!
 
 ## [1.1.0] 2024-08-24
 ### Added

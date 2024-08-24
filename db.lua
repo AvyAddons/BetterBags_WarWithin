@@ -249,4 +249,55 @@ addon.db = {
 		224025, -- Crackling Shard
 		224026, -- Storm Vessel
 	},
+	["|cff56BBFFAirship Schematics|r"] = {
+		224769, -- Delver's Dirigible Schematic: Rotor Blades
+		224771, -- Delver's Dirigible Schematic: Empennage
+		225542, -- Delver's Dirigible Schematic: Void
+		224768, -- Delver's Dirigible Schematic: Wing-Mounted Propeller
+		224770, -- Delver's Dirigible Schematic: Front-Mounted Propeller
+		224982, -- Delver's Dirigible Schematic: Exhaust
+		224979, -- Delver's Dirigible Schematic: Zeppelin
+		224981, -- Delver's Dirigible Schematic: Brown Paint
+		224980, -- Delver's Dirigible Schematic: Front-Mounted Lantern
+		224960, -- Delver's Dirigible Schematic: Lantern Wing
+		223510, -- Delver's Dirigible Schematic: Template
+	},
+	["|cffff8040Crests|r"] = {
+		220767, -- Triumphant Satchel of Carved Harbinger Crests
+		220773, -- Celebratory Pack of Runed Harbinger Crests
+		220776, -- Glorious Cluster of Gilded Harbinger Crests
+		221268, -- Pouch of Weathered Harbinger Crests
+		221373, -- Satchel of Carved Harbinger Crests
+		221375, -- Pack of Runed Harbinger Crests
+	},
+	["|cffff8040Valorstones|r"] = {
+		226813, -- Golden Valorstone
+		226257, -- Delver's Pouch of Valorstones
+		225896, -- Void-Touched Valorstone
+		221269, -- Crimson Valorstone
+	},
+	["|cfff49813Resonance Crystals|r"] = {
+		226195, -- Resonance Crystal Cluster
+		226198, -- Resonance Crystal Agglomeration
+		226259, -- Delver's Pouch of Resonance Crystals
+		224722, -- Waxy Bundle of Resonance Crystals
+	},
+	["|cffAFB42BContracts|r"] = {
+		222597, -- Contract: Council of Dornogal
+		222598, -- Contract: Council of Dornogal
+		222599, -- Contract: Council of Dornogal
+		222600, -- Contract: Assembly of the Deeps
+		222601, -- Contract: Assembly of the Deeps
+		222602, -- Contract: Assembly of the Deeps
+		222603, -- Contract: Hallowfall Arathi
+		222604, -- Contract: Hallowfall Arathi
+		222605, -- Contract: Hallowfall Arathi
+		222606, -- Contract: The Severed Threads
+		222607, -- Contract: The Severed Threads
+		222608, -- Contract: The Severed Threads
+	},
+	["|cff88AAFFAssembly of the Deep|r"] = {
+		212493, -- Odd Glob of Wax
+		224642, -- Firelight Ruby
+	}
 }
