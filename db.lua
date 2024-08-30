@@ -232,6 +232,7 @@ addon.db = {
 		225902, -- Idol of Final Will
 		218129, -- Porcelain Arrowhead Idol
 		228984, -- Unbreakable Iron Idol
+		225897, -- Brute Force Idol
 		225898, -- Idol of the Earthmother
 		229353, -- Rage-Filled Idol
 		225900, -- Light-Touched Idol
