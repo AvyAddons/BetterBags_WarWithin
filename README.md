@@ -6,6 +6,17 @@
 Currently, this addon supports:
 
 - Radiant Echoes (Pre-Patch Event)
+- Profession Knowledge
+- Contracts
+- Delves
+- Crests & Valorstones
+- Resonance Crystals
+- Assembly of the Deeps
+- Hallowfall Arathi
+- Mounts
+  - Alunira
+  - Airship Schematics
+- Multiple treasures
 
 This is a plugin only! You can get the base bag addon over at [Cidan/BetterBags](https://github.com/Cidan/BetterBags) or [CurseForge](https://www.curseforge.com/wow/addons/better-bags).
 
