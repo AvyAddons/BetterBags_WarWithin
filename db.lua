@@ -1,5 +1,5 @@
----@type string, BBTWW
-local _, addon = ...
+---@class BBTWW
+local addon = select(2, ...)
 
 -- Database
 -----------------------------------------------------------
@@ -297,8 +297,24 @@ addon.db = {
 		222607, -- Contract: The Severed Threads
 		222608, -- Contract: The Severed Threads
 	},
-	["|cff88AAFFAssembly of the Deep|r"] = {
+	["|cff88AAFFAssembly of the Deeps|r"] = {
 		212493, -- Odd Glob of Wax
 		224642, -- Firelight Ruby
+	},
+	["|cff88AAFFHallowfall Arathi|r"] = {
+		206350, -- Radiant Remnant
+	},
+	["|cff1826a4Dusty Prospector's Chest|r"] = {
+		223882, -- Rough Deepdiamond Shard
+		223880, -- Rough Deepamethyst Shard
+		223878, -- Rough Deepruby Shard
+		223879, -- Rough Deeptopaz Shard
+		223881, -- Rough Deepemerald Shard
+	},
+	["|cff1826a4Illusive Kobyss Lure|r"] = {
+		225554, -- Sunless Lure
+		225558, -- Murkfin Lure
+		225559, -- Hungering Shimmerfin
+		225560, -- Ragefin Necrostaff
 	}
 }
