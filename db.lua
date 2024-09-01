@@ -304,14 +304,14 @@ addon.db = {
 	["|cff88AAFFHallowfall Arathi|r"] = {
 		206350, -- Radiant Remnant
 	},
-	["|cff1826a4Dusty Prospector's Chest|r"] = {
+	["|cff0070ddDusty Prospector's Chest|r"] = {
 		223882, -- Rough Deepdiamond Shard
 		223880, -- Rough Deepamethyst Shard
 		223878, -- Rough Deepruby Shard
 		223879, -- Rough Deeptopaz Shard
 		223881, -- Rough Deepemerald Shard
 	},
-	["|cff1826a4Illusive Kobyss Lure|r"] = {
+	["|cff0070ddIllusive Kobyss Lure|r"] = {
 		225554, -- Sunless Lure
 		225558, -- Murkfin Lure
 		225559, -- Hungering Shimmerfin
