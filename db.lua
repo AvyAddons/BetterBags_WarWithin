@@ -226,6 +226,7 @@ addon.db = {
 		226306, -- Web-Entangled Lotus
 	},
 	["|cff88AAFFDelves|r"] = {
+		220520, -- Radiant Echo
 		229899, -- Coffer Key Shard
 		224172, -- Restored Coffer Key
 		-- Combat Curios
