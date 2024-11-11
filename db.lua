@@ -301,6 +301,7 @@ addon.db = {
 	["|cff88AAFFAssembly of the Deeps|r"] = {
 		212493, -- Odd Glob of Wax
 		224642, -- Firelight Ruby
+		225767, -- Spare Toolbox
 	},
 	["|cff88AAFFHallowfall Arathi|r"] = {
 		206350, -- Radiant Remnant
