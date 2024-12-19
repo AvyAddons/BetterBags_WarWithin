@@ -13,9 +13,11 @@ Currently, this addon supports:
 - Resonance Crystals
 - Assembly of the Deeps
 - Hallowfall Arathi
+- Cyrce's Circlet & Citrines
 - Mounts
   - Alunira
   - Airship Schematics
+  - Thrayir, Eyes of the Siren
 - Multiple treasures
 
 This is a plugin only! You can get the base bag addon over at [Cidan/BetterBags](https://github.com/Cidan/BetterBags) or [CurseForge](https://www.curseforge.com/wow/addons/better-bags).

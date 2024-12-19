@@ -318,5 +318,33 @@ addon.db = {
 		225558, -- Murkfin Lure
 		225559, -- Hungering Shimmerfin
 		225560, -- Ragefin Necrostaff
+	},
+	["|cffe68cabCyrce's Circlet|r"] = {
+		228411, -- Cyrce's Circlet
+		229002, -- Cracked Citrine
+		230211, -- Singing Citrine
+		228639, -- Fathomdweller's Runed Citrine
+		228646, -- Legendary Skipper's Citrine
+		228644, -- Mariner's Hallowed Citrine
+		228643, -- Old Salt's Bardic Citrine
+		229365, -- Raw Singing Citrine
+		228648, -- Roaring War-Queen's Citrine
+		228647, -- Seabed Leviathan's Citrine
+		228635, -- Squall Sailor's Citrine
+		228642, -- Storm Sewer's Citrine
+		228638, -- Stormbringer's Runed Citrine
+		228634, -- Thunderlord's Crackling Citrine
+		228636, -- Undersea Overseer's Citrine
+		228640, -- Windsinger's Runed Citrine
+	},
+	["|cffa335eeThrayir|r"] = {
+		234328, -- Torrential Fragment
+		232605, -- Thunderous Fragment
+		234327, -- Turbulent Fragment
+		232569, -- Cyclonic Runekey
+		232572, -- Torrential Runekey
+		232571, -- Whirling Runekey
+		232573, -- Thunderous Runekey
+		232570, -- Turbulent Runekey
 	}
 }
