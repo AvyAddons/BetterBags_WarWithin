@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.6.0] 2025-02-26
 ### Changed
 - Bump TOC to 11.1.0
+- Added Category
 
 ## [1.5.0] 2024-12-20
 ## Added
