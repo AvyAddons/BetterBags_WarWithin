@@ -346,5 +346,31 @@ addon.db = {
 		232571, -- Whirling Runekey
 		232573, -- Thunderous Runekey
 		232570, -- Turbulent Runekey
+	},
+	["|cffa335eeG-99 Breakneck|r"] = {
+		232985, -- 22H Slicks
+		232986, -- GE86 Advance
+		232981, -- GNZ Airmaster 9000
+		232984, -- Handcrank
+		234415, -- Handcrank Casing
+		234386, -- Handcrank Fuel Injector
+		234381, -- Handcrank Fuel Tank
+		234417, -- Handcrank Gears
+		234420, -- Handcrank Mounting System
+		236670, -- Maniacal Melodies
+		235390, -- Paint: Body Roll Blue
+		235389, -- Paint: Goblin Green
+		235388, -- Paint: Redlining Red
+		235391, -- Paint: Yellow Cake Yellow
+		232983, -- Steamboil
+		234416, -- Steamboil Casing
+		234387, -- Steamboil Fuel Injector
+		234380, -- Steamboil Fuel Tank
+		234418, -- Steamboil Gears
+		234419, -- Steamboil Mounting System
+		236671, -- The Buzzer
+		236672, -- The Ol' Low-and-Slow
+		232982, -- The Pozzik Standard
+		236669, -- The Whole Brass Band
 	}
 }

@@ -5,7 +5,7 @@
 
 Currently, this addon supports:
 
-- Radiant Echoes (Pre-Patch Event)
+- G-99 Breakneck Customization *NEW!*
 - Profession Knowledge
 - Contracts
 - Delves
@@ -19,6 +19,7 @@ Currently, this addon supports:
   - Airship Schematics
   - Thrayir, Eyes of the Siren
 - Multiple treasures
+- Radiant Echoes (Pre-Patch Event)
 
 This is a plugin only! You can get the base bag addon over at [Cidan/BetterBags](https://github.com/Cidan/BetterBags) or [CurseForge](https://www.curseforge.com/wow/addons/better-bags).
 
