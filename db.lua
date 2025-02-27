@@ -372,5 +372,13 @@ addon.db = {
 		236672, -- The Ol' Low-and-Slow
 		232982, -- The Pozzik Standard
 		236669, -- The Whole Brass Band
+	},
+	["|cff0070ddGorillion|r"] = {
+		232843, -- Gorillion
+		234431, -- Gorillion Batteries
+		234430, -- Gorillion Grease
+		234427, -- Gorillion Fork
+		234433, -- Gorillion Chasis
+		234432, -- Gorillion Engine
 	}
 }

@@ -5,7 +5,6 @@
 
 Currently, this addon supports:
 
-- G-99 Breakneck Customization *NEW!*
 - Profession Knowledge
 - Contracts
 - Delves
@@ -18,7 +17,9 @@ Currently, this addon supports:
   - Alunira
   - Airship Schematics
   - Thrayir, Eyes of the Siren
+  - G-99 Breakneck Customization *NEW!*
 - Multiple treasures
+  - Gorillion Pet *NEW!*
 - Radiant Echoes (Pre-Patch Event)
 
 This is a plugin only! You can get the base bag addon over at [Cidan/BetterBags](https://github.com/Cidan/BetterBags) or [CurseForge](https://www.curseforge.com/wow/addons/better-bags).
