@@ -271,12 +271,27 @@ addon.db = {
 		221268, -- Pouch of Weathered Harbinger Crests
 		221373, -- Satchel of Carved Harbinger Crests
 		221375, -- Pack of Runed Harbinger Crests
+		231153, -- Triumphant Satchel of Carved Undermine Crests
+		231154, -- Celebratory Pack of Runed Undermine Crests
+		231264, -- Glorious Cluster of Gilded Undermine Crests
+		231267, -- Pouch of Weathered Undermine Crests
+		231269, -- Satchel of Carved Undermine Crests
+		231270, -- Pack of Runed Undermine Crests
 	},
 	["|cffff8040Valorstones|r"] = {
-		226813, -- Golden Valorstone
 		226257, -- Delver's Pouch of Valorstones
-		225896, -- Void-Touched Valorstone
+		-- Season 1
 		221269, -- Crimson Valorstone
+		226813, -- Golden Valorstone
+		225896, -- Void-Touched Valorstone
+		-- Season 2
+		236953, -- Crimson Valorstone
+		232382, -- Golden Valorstone
+		236954, -- Void-Touched Valorstone
+		-- Greyed out ones
+		236955, -- Crimson Valorstone
+		237036, -- Golden Valorstone
+		236956, -- Void-Touched Valorstone
 	},
 	["|cfff49813Resonance Crystals|r"] = {
 		226195, -- Resonance Crystal Cluster
