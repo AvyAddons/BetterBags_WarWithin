@@ -8,7 +8,7 @@ Currently, this addon supports:
 - Profession Knowledge
 - Contracts
 - Delves
-- Crests & Valorstones
+- Crests & Valorstones *UPDATED FOR SEASON 2*
 - Resonance Crystals
 - Assembly of the Deeps
 - Hallowfall Arathi
