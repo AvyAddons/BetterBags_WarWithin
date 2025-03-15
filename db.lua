@@ -227,7 +227,8 @@ addon.db = {
 	},
 	["|cff88AAFFDelves|r"] = {
 		220520, -- Radiant Echo
-		229899, -- Coffer Key Shard
+		229899, -- Coffer Key Shard (Season 1)
+		236096, -- Coffer Key Shard (Season 2)
 		224172, -- Restored Coffer Key
 		-- Combat Curios
 		225902, -- Idol of Final Will
