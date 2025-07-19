@@ -12,6 +12,8 @@ Currently, this addon supports:
 - Resonance Crystals
 - Assembly of the Deeps
 - Hallowfall Arathi
+- The Undermine(d)
+- Dastardly Duos
 - Cyrce's Circlet & Citrines
 - Mounts
   - Alunira

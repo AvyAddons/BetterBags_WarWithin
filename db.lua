@@ -248,10 +248,6 @@ addon.db = {
 		225906, -- Lifeless Necrotic Relic
 		225907, -- Relic of Sentience
 	},
-	["|cffa335eeAlunira|r"] = {
-		224025, -- Crackling Shard
-		224026, -- Storm Vessel
-	},
 	["|cff56BBFFAirship Schematics|r"] = {
 		224769, -- Delver's Dirigible Schematic: Rotor Blades
 		224771, -- Delver's Dirigible Schematic: Empennage
@@ -322,6 +318,16 @@ addon.db = {
 	["|cff88AAFFHallowfall Arathi|r"] = {
 		206350, -- Radiant Remnant
 	},
+	["|cff88AAFFThe Undermine|r"] = {
+		231099, -- Back-Strapped Missile
+		225415, -- Caddy Caller
+	},
+	["|cff0070ddDastardly Duos|r"] = {
+		237774, -- Bullhorn of Calling
+		237384, -- Master Key
+		235665, -- Burner Clock
+		237385, -- BIG Burner Clock
+	},
 	["|cff0070ddDusty Prospector's Chest|r"] = {
 		223882, -- Rough Deepdiamond Shard
 		223880, -- Rough Deepamethyst Shard
@@ -352,6 +358,10 @@ addon.db = {
 		228634, -- Thunderlord's Crackling Citrine
 		228636, -- Undersea Overseer's Citrine
 		228640, -- Windsinger's Runed Citrine
+	},
+	["|cffa335eeAlunira|r"] = {
+		224025, -- Crackling Shard
+		224026, -- Storm Vessel
 	},
 	["|cffa335eeThrayir|r"] = {
 		234328, -- Torrential Fragment
