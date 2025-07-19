@@ -1,4 +1,4 @@
-## Interface: 110105
+## Interface: 110107
 
 ## Title: BetterBags - The War Within
 ## Notes: Filter for common War Within items in BetterBags.
@@ -35,4 +35,5 @@ main.lua
 
 #@debug@
 ## Version: DEV
+## AllowAddOnTableAccess: true
 #@end-debug@
