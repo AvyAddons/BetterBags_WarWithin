@@ -230,6 +230,7 @@ addon.db = {
 		229899, -- Coffer Key Shard (Season 1)
 		236096, -- Coffer Key Shard (Season 2)
 		224172, -- Restored Coffer Key
+		244465, -- Titan Disc Shard
 		-- Combat Curios
 		225902, -- Idol of Final Will
 		218129, -- Porcelain Arrowhead Idol
