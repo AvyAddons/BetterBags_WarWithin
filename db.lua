@@ -248,6 +248,19 @@ addon.db = {
 		228582, -- Streamlined Relic
 		225906, -- Lifeless Necrotic Relic
 		225907, -- Relic of Sentience
+		-- 11.2 curios
+		239568, -- Audio Amplification Crystal
+		239580, -- Nether Overlay Matrix
+		239578, -- Quizzical Device
+		239579, -- Hatarang
+		239576, -- Mana-Tinted Glasses
+		239567, -- Tailwind Conduit
+		239571, -- Sands of K'aresh
+		239569, -- Battered Aegis
+		239570, -- Temporal Decelerator Crystal
+		239573, -- Ethereal Energy Converter
+		-- Nemesis Lure
+		248017, -- Shrieking Quartz
 	},
 	["|cff56BBFFAirship Schematics|r"] = {
 		224769, -- Delver's Dirigible Schematic: Rotor Blades
