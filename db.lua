@@ -229,6 +229,7 @@ addon.db = {
 		220520, -- Radiant Echo
 		229899, -- Coffer Key Shard (Season 1)
 		236096, -- Coffer Key Shard (Season 2)
+		245653, -- Coffer Key Shard (Season 3)
 		224172, -- Restored Coffer Key
 		244465, -- Titan Disc Shard
 		-- Combat Curios
