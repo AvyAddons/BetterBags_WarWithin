@@ -12,6 +12,12 @@ addon.db = {
 		223645, -- Essence of the Eastern Kingdoms
 		223646, -- Memory of the Eastern Kingdoms
 		223647, -- Lifeless Stone Ring
+		220520, -- Radiant Echo (Season 1)
+		228958, -- Radiant Echo (Season 1)
+		235897, -- Radiant Echo (Season 2)
+		235896, -- Radiant Echo (Season 2)
+		246771, -- Radiant Echo (Season 3)
+		246772, -- Radiant Echo (Season 3)
 	},
 	["|cff0070ddProfession Knowledge|r"] = {
 		224055, -- A Rocky Start
@@ -226,7 +232,6 @@ addon.db = {
 		226306, -- Web-Entangled Lotus
 	},
 	["|cff88AAFFDelves|r"] = {
-		220520, -- Radiant Echo
 		229899, -- Coffer Key Shard (Season 1)
 		236096, -- Coffer Key Shard (Season 2)
 		245653, -- Coffer Key Shard (Season 3)
