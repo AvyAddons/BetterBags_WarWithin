@@ -237,6 +237,19 @@ addon.db = {
 		245653, -- Coffer Key Shard (Season 3)
 		224172, -- Restored Coffer Key
 		244465, -- Titan Disc Shard
+		-- Bounty Maps
+		227668, -- Delver's Bounty (Season 1)
+		227778, -- Delver's Bounty (Season 1)
+		227779, -- Delver's Bounty (Season 1)
+		227780, -- Delver's Bounty (Season 1)
+		227781, -- Delver's Bounty (Season 1)
+		227782, -- Delver's Bounty (Season 1)
+		227783, -- Delver's Bounty (Season 1)
+		227784, -- Delver's Bounty (Season 1)
+		233071, -- Delver's Bounty (Season 1)
+		232898, -- Delver's Bounty (Season 1)
+		235628, -- Delver's Bounty (Season 2)
+		248142, -- Delver's Bounty (Season 3)
 		-- Combat Curios
 		225902, -- Idol of Final Will
 		218129, -- Porcelain Arrowhead Idol
@@ -267,6 +280,17 @@ addon.db = {
 		239573, -- Ethereal Energy Converter
 		-- Nemesis Lure
 		248017, -- Shrieking Quartz
+		-- Memories
+		247864, -- Memory of Arthas
+		247835, -- Memory of Illidan
+		247873, -- Memory of Thrall
+		247871, -- Memory of Sylvanas
+		247870, -- Memory of Saurfang
+		247872, -- Memory of Theotar
+		247865, -- Memory of Garrosh
+		247869, -- Memory of Putricide
+		247866, -- Memory of Guldan
+		247867, -- Memory of Surama
 	},
 	["|cff56BBFFAirship Schematics|r"] = {
 		224769, -- Delver's Dirigible Schematic: Rotor Blades
