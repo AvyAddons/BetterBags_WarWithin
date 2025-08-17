@@ -323,6 +323,12 @@ addon.db = {
 		222606, -- Contract: The Severed Threads
 		222607, -- Contract: The Severed Threads
 		222608, -- Contract: The Severed Threads
+		232532, -- Contract: The Cartels of Undermine
+		232533, -- Contract: The Cartels of Undermine
+		232534, -- Contract: The Cartels of Undermine
+		243821, -- Contract: The K'aresh Trust
+		243822, -- Contract: The K'aresh Trust
+		243823, -- Contract: The K'aresh Trust
 	},
 	["|cff88AAFFAssembly of the Deeps|r"] = {
 		212493, -- Odd Glob of Wax
