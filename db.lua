@@ -418,6 +418,12 @@ addon.db = {
 		232573, -- Thunderous Runekey
 		232570, -- Turbulent Runekey
 	},
+	["|cffa335eeVoid-Crystal Panther|r"] = {
+		238924, -- Void-Bound Orb of Mystery
+		239105, -- Unusual Gems
+		239106, -- Shadow Infused Onyx
+		239107, -- Black Blood Infused Bar
+	},
 	["|cffa335eeG-99 Breakneck|r"] = {
 		232985, -- 22H Slicks
 		232986, -- GE86 Advance

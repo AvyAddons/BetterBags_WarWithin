@@ -5,43 +5,47 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+### Added
+- Void-Crystal Panther
+
 ## [1.10.8] 2025-08-18
-## Added
+### Added
 - Bounty Maps
 - Delve Memories
 - L00T RAID-R Mini
 
 ## [1.10.7] 2025-08-17
-## Added
+### Added
 - Contracts: K'aresh & Undermine
 
 ## [1.10.6] 2025-08-16
-## Added
+### Added
 - Season 3 Radiant Echo
 
 ## [1.10.5] 2025-08-14
-## Added
+### Added
 - Season 3 Coffer Key Shard
 
 ## [1.10.4] 2025-08-11
-## Added
+### Added
 - Season 3 Curios
 - Shrieking Quartz (Nemesis lure)
 
 ## [1.10.3] 2025-08-06
-## Fixed
+### Fixed
 - Removed some deleted items
 
 ## [1.10.2] 2025-08-06
-## Changed
+### Changed
 - Bump TOC to 11.2.0
 
 ## [1.10.1] 2025-08-02
-## Added
+### Added
 - Titan Disc Shard to Delves
 
 ## [1.10.0] 2025-07-20
-## Added
+### Added
 - Undermine(d) category
 - Dastardly Duos category
 
@@ -77,7 +81,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added Category
 
 ## [1.5.0] 2024-12-20
-## Added
+### Added
 - Thrayir, Eyes of the Siren
 - Cyrce's Circlet & Citrines
 
@@ -86,11 +90,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Bump TOC to 11.0.5, 11.0.7
 
 ## [1.4.3] 2024-11-11
-## Added
+### Added
 - Spare Toolbox to Assembly
 
 ## [1.4.2] 2024-10-23
-## Changed
+### Changed
 - Bump TOC to 11.0.2, 11.0.5
 
 ## [1.4.1] 2024-09-15

@@ -7,8 +7,8 @@ Currently, this addon supports:
 
 - Profession Knowledge
 - Contracts
-- Delves
-- Crests & Valorstones *UPDATED FOR SEASON 2*
+- Delves *UPDATED FOR SEASON 3*
+- Crests & Valorstones *UPDATED FOR SEASON 3*
 - Resonance Crystals
 - Assembly of the Deeps
 - Hallowfall Arathi
@@ -19,9 +19,10 @@ Currently, this addon supports:
   - Alunira
   - Airship Schematics
   - Thrayir, Eyes of the Siren
-  - G-99 Breakneck Customization *NEW!*
+  - G-99 Breakneck Customization
+  - Void-Crystal Panther *NEW!*
 - Multiple treasures
-  - Gorillion Pet *NEW!*
+  - Gorillion Pet
 - Radiant Echoes (Pre-Patch Event)
 
 This is a plugin only! You can get the base bag addon over at [Cidan/BetterBags](https://github.com/Cidan/BetterBags) or [CurseForge](https://www.curseforge.com/wow/addons/better-bags).
