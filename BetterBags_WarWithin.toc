@@ -35,5 +35,5 @@ main.lua
 
 #@debug@
 ## Version: DEV
-## AllowAddOnTableAccess: true
+## AllowAddOnTableAccess: 1
 #@end-debug@
