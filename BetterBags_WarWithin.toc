@@ -5,6 +5,7 @@
 ## Author: Avyiel
 ## Version: @project-version@
 ## IconTexture: Interface\Icons\inv_misc_bag_06
+## Group: BetterBags
 ## Category-enUS: Inventory
 ## Category-deDE: Inventar
 ## Category-esES: Inventario
