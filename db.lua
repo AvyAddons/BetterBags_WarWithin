@@ -292,6 +292,8 @@ addon.db = {
 		247869, -- Memory of Putricide
 		247866, -- Memory of Guldan
 		247867, -- Memory of Surama
+		-- Random Delve Items
+		248755, -- Star-in-a-jar
 	},
 	["|cff56BBFFAirship Schematics|r"] = {
 		224769, -- Delver's Dirigible Schematic: Rotor Blades
