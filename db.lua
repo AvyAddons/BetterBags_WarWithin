@@ -369,6 +369,15 @@ addon.db = {
 		231099, -- Back-Strapped Missile
 		225415, -- Caddy Caller
 	},
+	["|cff88AAFFK'aresh|r"] = {
+		242371, -- Untethered Xy'bucha
+		242529, -- Shadowtrade Imports
+		243144, -- Reshii Crystal Fragments
+		243147, -- Ethereal Defense Pylon
+		243219, -- Phased Ethereal Bow
+		232323, -- Watering Jug
+		236641, -- Watering Jug
+	},
 	["|cff0070ddDastardly Duos|r"] = {
 		237774, -- Bullhorn of Calling
 		237384, -- Master Key

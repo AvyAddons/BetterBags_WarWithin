@@ -13,6 +13,7 @@ Currently, this addon supports:
 - Assembly of the Deeps
 - Hallowfall Arathi
 - The Undermine(d)
+- K'aresh
 - Dastardly Duos
 - Cyrce's Circlet & Citrines
 - Mounts
