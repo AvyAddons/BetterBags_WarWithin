@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - K'aresh zone items
+### Changed
+- Bump TOC to 11.2.5
 
 ## [1.10.11] 2025-10-07
 ### Improvements
