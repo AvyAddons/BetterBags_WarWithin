@@ -1,4 +1,4 @@
-## Interface: 110200, 110205
+## Interface: 110205, 110207
 
 ## Title: BetterBags - The War Within
 ## Notes: Filter for common War Within items in BetterBags.
