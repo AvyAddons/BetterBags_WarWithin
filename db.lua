@@ -323,7 +323,7 @@ addon.db = {
 		226813, -- Golden Valorstone
 		225896, -- Void-Touched Valorstone
 		-- Season 2 | these items have been removed from the game
-		236953, -- Crimson Valorstone
+		-- 236953, -- Crimson Valorstone
 		-- 232382, -- Golden Valorstone
 		-- 236954, -- Void-Touched Valorstone
 		-- Greyed out ones
