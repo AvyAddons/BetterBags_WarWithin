@@ -7,8 +7,8 @@ Currently, this addon supports:
 
 - Profession Knowledge
 - Contracts
-- Delves *UPDATED FOR SEASON 3*
-- Crests & Valorstones *UPDATED FOR SEASON 3*
+- Delves
+- Crests & Valorstones
 - Resonance Crystals
 - Assembly of the Deeps
 - Hallowfall Arathi
@@ -21,7 +21,7 @@ Currently, this addon supports:
   - Airship Schematics
   - Thrayir, Eyes of the Siren
   - G-99 Breakneck Customization
-  - Void-Crystal Panther *NEW!*
+  - Void-Crystal Panther
 - Multiple treasures
   - Gorillion Pet
 - Radiant Echoes (Pre-Patch Event)
