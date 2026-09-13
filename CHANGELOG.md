@@ -35,7 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Bump TOC to 11.2.5
 
 ## [1.10.11] 2025-10-07
-### Improvements
+### Changed
 - Group this plugin under BetterBags in in-game Addon list
 
 ## [1.10.10] 2025-10-06
@@ -123,7 +123,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cyrce's Circlet & Citrines
 
 ## [1.4.4] 2024-12-19
-## Changes
+### Changed
 - Bump TOC to 11.0.5, 11.0.7
 
 ## [1.4.3] 2024-11-11
