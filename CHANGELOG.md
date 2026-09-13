@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+### Changed
+- Renamed the Delves category to War Within Delves, to tell it apart from the Midnight plugin's Delves category
+
+### Removed
+- L00T RAID-R Mini from the Delves category
+
 ## [1.12.3] 2026-08-14
 ### Changed
 - Bump TOC to 12.1.0

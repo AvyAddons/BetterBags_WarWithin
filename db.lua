@@ -231,13 +231,12 @@ addon.db = {
 		226291, -- Void Shard
 		226306, -- Web-Entangled Lotus
 	},
-	["|cff88AAFFDelves|r"] = {
+	["|cff88AAFFWar Within Delves|r"] = {
 		229899, -- Coffer Key Shard (Season 1)
 		236096, -- Coffer Key Shard (Season 2)
 		245653, -- Coffer Key Shard (Season 3)
 		224172, -- Restored Coffer Key
 		244465, -- Titan Disc Shard
-		244193, -- L00T RAID-R Mini
 		-- Bounty Maps
 		227668, -- Delver's Bounty (Season 1)
 		227778, -- Delver's Bounty (Season 1)
