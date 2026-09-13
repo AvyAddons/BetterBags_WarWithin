@@ -12,4 +12,5 @@ ignore:
     - CHANGELOG.md
     - CODE_OF_CONDUCT.md
     - .editorconfig
+    - mise.toml
     - .github
