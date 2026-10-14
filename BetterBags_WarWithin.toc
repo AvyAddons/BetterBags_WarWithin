@@ -1,4 +1,4 @@
-## Interface: 120100
+## Interface: 120105
 
 ## Title: BetterBags - The War Within
 ## Notes: Filter for common War Within items in BetterBags.
