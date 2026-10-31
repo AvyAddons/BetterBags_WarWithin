@@ -14,3 +14,4 @@ ignore:
     - .editorconfig
     - mise.toml
     - .github
+    - README.md
